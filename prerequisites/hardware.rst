@@ -15,6 +15,6 @@ For optimal performance up to 40 agents:
 * 4 CPU cores
 * 6 GB of RAM (+6 GB if you want to run Elasticsearch on the same server)
 
-Of course at the end it depends on acutal load of concurent agents and data traffic.
+Of course at the end it depends on actual load of concurent agents and data traffic.
 
 .. note:: We can't suggest any disk space recommendations, as this highly depends on how you work. Zammad will always try to recognize the same attachments and store it just once.
